@@ -1,0 +1,1 @@
+montageDefine("66406ea","ui/task-cell.reel/task-cell",{dependencies:["montage/ui/component"],factory:function(e,t){var n=e("montage/ui/component").Component;t.TaskCell=n.specialize({constructor:{value:function(){this.super()}}})}});
